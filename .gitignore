@@ -1,2 +1,5 @@
 /.vscode/
 .DS_Store
+/TianShan_Core/builds/
+/TianShan_Core/hw/chisel/out
+/TianShan_Core/.scratchip/
