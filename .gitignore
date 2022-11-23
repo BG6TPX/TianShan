@@ -1,6 +1,7 @@
 /.vscode/
 .DS_Store
-/TianShan_Core/hw/chisel/out
+/chisel
+/TianShan_Core/hw/chisel/out/
 /TianShan_Core/.scratchip/
 /TianShan_Core/hw/chisel/build.sc
 /TianShan_Core/builds/Top.fir
