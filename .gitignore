@@ -1,8 +1,0 @@
-/.vscode/
-.DS_Store
-/chisel
-/TianShan_Core/hw/chisel/out/
-/TianShan_Core/.scratchip/
-/TianShan_Core/hw/chisel/build.sc
-/TianShan_Core/builds/Top.fir
-/TianShan_Core/builds/Top.anno.json
